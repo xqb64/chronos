@@ -2,4 +2,4 @@
 
 The confusion-free global clock.
 
-Status: WIP.
+Status: [live](https://xqb64.github.io/chronos/).
